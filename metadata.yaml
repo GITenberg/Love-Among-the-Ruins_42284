@@ -1,0 +1,43 @@
+_repo: Love-Among-the-Ruins_42284
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Benda, Wladyslaw T. (Wladyslaw Theodore)
+    aliases:
+    - Benda, Wladyslaw Theodore
+    - Benda, W. T.
+    - Benda, W. (Wladyslaw)
+    birthdate: 1873
+    deathdate: 1948
+    gutenberg_agent_id: '36188'
+    url: http://www.gutenberg.org/2009/agents/36188
+    wikipedia: http://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_T._Benda
+covers:
+- cover_type: archival
+  image_path: 42284-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Deeping, Warwick
+    alias: Deeping, George Warwick
+    birthdate: 1877
+    deathdate: 1950
+    gutenberg_agent_id: '41615'
+    url: http://www.gutenberg.org/2009/agents/41615
+description: Title; Contents; Part I; I; II; III; IV; V; VI; VII; VIII; IX; X; XI;
+  XII; Part II; XIII; XIV; XV; XVI; XVII; XVIII; XIX; XX; XXI; Part III; XXII; XXIII;
+  XXIV; XXV; XXVI; XXVII; XXVIII; XXIX; XXX; XXXI; XXXII; XXXIII; XXXIV; XXXV; XXXVI;
+  Part IV; XXXVII; XXXVIII; XXXIX; XL; XLI; XLII; XLIII; XLIV; XLV.
+gutenberg_issued: '2013-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42284'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Great Britain -- History -- Medieval period, 1066-1485 -- Fiction'
+title: Love Among the Ruins
+url: http://www.gutenberg.org/ebooks/42284
